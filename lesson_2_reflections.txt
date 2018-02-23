@@ -6,6 +6,8 @@ What value do you think it offers?
 How can you use the staging area to make sure you have one commit per logical
 change?
 
+This can be done by first adding the files that are related to first logical change that you want to commit, make sure that it has been staged and then commit. Subsequently add other files with the same procedure. 
+
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
